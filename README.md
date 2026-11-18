@@ -28,7 +28,6 @@ To write and execute an Assembly language program for finding the square of a gi
 
 
 
-```
 
 ## OUTPUT
 
@@ -53,7 +52,6 @@ To write and execute an Assembly language program for finding the cube of a give
 4. The output cube value is stored in a memory location.
 
 ## PROGRAM
-<img width="451" height="630" alt="image" src="https://github.com/user-attachments/assets/980897c4-24b7-4956-901f-7e751ec706dd" />
 
 
 
@@ -64,7 +62,6 @@ To write and execute an Assembly language program for finding the cube of a give
 
 
 
-```
 
 
 ## OUTPUT
