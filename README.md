@@ -1,4 +1,4 @@
-# Square-Cube-of-a-number-using-8051
+<img width="549" height="728" alt="image" src="https://github.com/user-attachments/assets/a20c3d35-e308-4a43-a7e2-9cf8968d41a1" /># Square-Cube-of-a-number-using-8051
 # 8051 Square  Program
 
 ## AIM
@@ -16,6 +16,7 @@ To write and execute an Assembly language program for finding the square of a gi
 
 ## PROGRAM
 ```
+<img width="421" height="505" alt="image" src="https://github.com/user-attachments/assets/2d644012-e267-4d44-bb98-91b4f01ac31b" />
 
 
 
@@ -28,6 +29,7 @@ To write and execute an Assembly language program for finding the square of a gi
 ```
 
 ## OUTPUT
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/fab2234a-fe2f-443a-a232-1245a57f8925" />
 
 
 ## RESULT
@@ -54,6 +56,8 @@ To write and execute an Assembly language program for finding the cube of a give
 
 
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/329cbdfb-6581-49c6-9afa-382379b03e5a" />
+
 
 
 
@@ -62,6 +66,8 @@ To write and execute an Assembly language program for finding the cube of a give
 
 
 ## OUTPUT
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/c7b3617f-8f8b-4391-b06e-f1e5d732ab35" />
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
