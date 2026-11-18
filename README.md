@@ -56,7 +56,7 @@ To write and execute an Assembly language program for finding the cube of a give
 
 
 
-<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/329cbdfb-6581-49c6-9afa-382379b03e5a" />
+<img width="598" height="764" alt="image" src="https://github.com/user-attachments/assets/c6fff257-d397-499b-b64f-f7e8667a685f" />
 
 
 
